@@ -161,7 +161,7 @@ public class EdenBoutique {
         String raspunsClient = citeste.nextLine();
        alegereMetodaLivrare(pretAchizitii);
 
-        System.out.println("Va multumim pentru comanda. Aproximam ca livrarea sa ajunga la adresa dumneavoastra: " + raspunsClient + " in cel mult 2 zile lucratoare. ");
+        System.out.println("Va multumim pentru comanda. Aproximam ca livrarea sa ajunga la adresa dumneavoastra: " + raspunsClient + " in cel mult 3 zile lucratoare. ");
         return 1;
     }
 
